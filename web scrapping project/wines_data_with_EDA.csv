@@ -1,0 +1,506 @@
+product_name,country,grapes_type,short_description,reviews,price(dollar),quantity,year,total_amount(dollar)
+Bonded Winery No. 2 by The Bundschu Family Sonoma Valley,United States,Cabernet Sauvignon,Iconic Sonoma Cab Sauvignon,1,54.99,12,2022,659.88
+Pillastro Primitivo,Italy,Primitivo,94-Point Italian Bestseller,1894,15.99,12,2022,191.88
+The Black Stump Durif Shiraz,Australia,Durif-based blend,Gold-Medal Aussie Blockbuster,2199,16.99,12,2024,203.88
+J Opi Malbec,Argentina,Malbec,The Magician's Signature Malbec,1111,16.99,12,2024,203.88
+Pillastro Primitivo,Italy,Primitivo,Popular Italian Bestseller,1888,15.99,12,2023,191.88
+Abbesse Sauvignon Blanc,France,Sauvignon Blanc,Fabulous French Sauvignon Blanc,19,18.99,12,2024,227.88
+w/o Lucido,Italy,Lucido,Organically Grown Sicilian White,43,19.99,12,2024,239.88
+Queen Bee Viognier,South Africa,Viognier,Elegant South African Viognier,39,19.99,12,2024,239.88
+Lobo e Falcão,Portugal,Castelão-based blend,Powerful Portuguese Favorite,935,19.99,12,2024,239.88
+Saracosa,Italy,Sangiovese-based blend,Bestselling Super Tuscan,1085,19.99,12,2024,239.88
+Le Champ des Etoiles Pinot Noir,France,Pinot Noir,Bestselling French Pinot,324,21.99,12,2024,263.88
+Cabalié,France,Grenache-based blend,Award-Winning French Favorite,738,17.99,12,2023,215.88
+Cabalié,France,Grenache-based blend,French Favorite,3,17.99,12,2024,215.88
+Abbesse Sauvignon Blanc,France,Sauvignon Blanc,Gold-Medal French Sauvignon Blanc,19,18.99,12,2023,227.88
+The Waxed Bat,Argentina,Shiraz-based blend,Acclaimed Argentine Phenomenon,1256,17.99,12,2024,215.88
+Saserello Rosso,Italy,Red blend,Dark-Fruited Sicilian Red,1135,16.99,12,2022,203.88
+Manga del Brujo Blanco,Spain,Macabeo-based blend,Old-Vine Spanish White,19,26.99,12,2024,323.88
+La Chiamata Montepulciano d'Abruzzo,Italy,Montepulciano,Classic Italian Montepulciano,133,15.99,12,2022,191.88
+w/o Frappato,Italy,Frappato,94-Point Organically Grown Sicilian Red,44,19.99,12,2023,239.88
+Aluado Alicante Bouschet,Portugal,Alicante Bouschet,Bestselling Portuguese Red,1503,15.99,12,2023,191.88
+Antonio Federici Rosso,Italy,Red blend,Heralded Roman Sensation,258,22.99,12,2021,275.88
+Pagos de Tahola Rioja,Spain,Tempranillo,"Top-Estate, Gold-Medal Rioja",564,17.99,12,2023,215.88
+Collezione di Paolo Chianti,Italy,Sangiovese,Top Winemaker’s Signature Chianti,616,18.99,12,2023,227.88
+Saracosa Governo Rosso,Italy,Sangiovese-based blend,98-Point Tuscan Rarity,763,24.99,12,2023,299.88
+L'Epiphanie de Sauternes (half bottle),France,Sémillon-based blend,"95-Point, Top-Secret Sauternes",3,39.99,12,2019,479.88
+The Jumper Sauvignon Blanc,New Zealand,Sauvignon Blanc,Classic New Zealand Sauvignon Blanc,422,22.99,12,2024,275.88
+Vina Baccana Pinot Grigio,Italy,Pinot Grigio,Classic Italian Pinot Grigio,532,16.99,12,2023,203.88
+Prestige de Mireval Cabernet Sauvignon,France,Cabernet Sauvignon,"Gold-Medal, Barrel-Aged French Cabernet",86,18.99,12,2023,227.88
+Cuvée du Vatican Réserve de l'Abbé Côtes du Rhône,France,Syrah-based blend,Top-Estate Côtes-du-Rhône Réserve,289,19.99,12,2023,239.88
+Le Champ des Etoiles Chardonnay,France,Chardonnay,Barrel-Aged French Chardonnay,145,21.99,12,2023,263.88
+RedHeads The Red Sedan Cabernet Sauvignon Shiraz,Australia,Cabernet-based blend,Boutique Australian Blockbuster,161,19.99,12,2021,239.88
+Altos de la Guardia Tempranillo,Spain,Tempranillo,Acclaimed Estate's 90-Point Rioja,190,21.99,12,2022,263.88
+L'Art Provençal Rosé,France,Grenache-based blend,Artful Provence Rosé,67,22.99,12,2023,275.88
+El Bombero,Spain,Garnacha,Old-Vine Spanish Garnacha,466,16.99,12,2023,203.88
+Massaro Del Fondo Appassimento,Italy,Red blend,Full-Flavored Italian Blockbuster,371,21.99,12,2024,263.88
+Yarrunga Field Special Reserve White,Australia,White blend,Sunshine-in-a-Glass from Australia,138,15.99,12,2025,191.88
+Palumbo Puglia,Italy,Nero di Troia-based blend,Rich Southern Italian Red,59,15.99,12,2024,191.88
+Hacienda de Lluna Viognier,Spain,Viognier,Lovely Spanish Viognier,1,15.99,12,2024,191.88
+Valoroso Cabernet Sauvignon,Portugal,Cabernet Sauvignon,Valiant Portuguese Cabernet,88,23.99,12,2023,287.88
+La Cuadrilla de Sobreño,Spain,Tinta de Toro,Tantalizing Spanish Red,21,22.99,12,2023,275.88
+Farinelli Pinot Grigio,Italy,Pinot Grigio,Classic Italian Pinot Grigio,125,12.99,12,2024,155.88
+Saserello Rosso,Italy,Red blend,Dark-Fruited Sicilian Red,1135,19.99,12,2024,239.88
+Colle Marianna Soave,Italy,Garganega,Star Winemaker’s Fine Soave,19,19.99,12,2024,239.88
+DeLoach Private Collection Zinfandel,United States,Zinfandel,Old-Vine Lodi Zin Release,54,26.99,12,2019,323.88
+Vecciano,Italy,Sangiovese-based blend,Esteemed Tuscan Legend,1,42.99,12,2021,515.88
+Stones & Bones,Portugal,Touriga Nacional-based blend,Best-Selling Portuguese Blockbuster,1722,16.99,12,2023,203.88
+Château Le Coin Bordeaux,France,Merlot-based blend,Classic Dark-Fruited Bordeaux,6,23.99,12,2024,287.88
+Edizione Limitata Numerata Chianti Numero 3 Particella,Italy,Sangiovese,Iconic Chianti,21,24.99,12,2022,299.88
+Casa de Vila Verde,Portugal,Loureiro-based blend,Portugal’s Freshest White,192,15.99,12,2024,191.88
+Trimboli Salvatore Trebbiano,Australia,Trebbiano,Barrel-Aged Australian Trebbiano,39,15.99,12,2024,191.88
+Peña Garnacha,Spain,Garnacha,Old-Vine Spanish Garnacha,10,16.99,12,2023,203.88
+Quinta do Espírito Santo,Portugal,Castelão-based blend,Top-Estate Portuguese Blockbuster,194,19.99,12,2023,239.88
+Antonio Federici Rosso Roma,Italy,Montepulciano-based blend,Heralded Roman Sensation,258,22.99,12,2022,275.88
+200 Gallons Reserva,Portugal,Alicante Bouschet,Historic Portuguese Reserva,100,22.99,12,2022,275.88
+Les Pagodes de Cos C12,France,Red blend,“Incredibly Sexy” 2009 Bordeaux,1,89.99,12,2009,1079.88
+Purple Owl Pinot Noir,United States,Pinot Noir,Best-Selling California Pinot Noir,222,19.99,12,2024,239.88
+Affogato,Italy,Nero di Troia-based blend,Luscious Puglian Red,152,15.99,12,2024,191.88
+Black Saint Peter Old Vine Zinfandel,United States,Zinfandel,Award-Winning Lodi Zinfandel,413,19.99,12,2023,239.88
+Purple Owl Pinot Noir,United States,Pinot Noir,Best-Selling California Pinot Noir,223,19.99,12,2023,239.88
+Altos de la Guardia Blanco,Spain,White blend,Lush White Rioja,2,21.99,12,2022,263.88
+Dark Corner Durif Shiraz,Australia,Durif-based blend,Acclaimed Australian Red,620,14.99,12,2024,179.88
+The Inaugural R Collection by Raymond Vineyards Cab Sauv,United States,Cabernet Sauvignon,Top-Estate California Cab,1337,24.99,12,2024,299.88
+Vesuvium Greco di Tufo,Italy,Greco,A Refreshing Italian Rarity,14,29.99,12,2022,359.88
+Capital Z Zinfandel,United States,Zinfandel,Intense Lodi Zinfandel,222,16.99,12,2023,203.88
+Font del Victoire Pinot Noir,France,Pinot Noir,Southern French Pinot Noir,5,22.99,12,2024,275.88
+Lima Dorata Pinot Grigio,Italy,Pinot Grigio,Elegant Italian Pinot Grigio,13,19.99,12,2024,239.88
+Hole in the Clouds Sauvignon Blanc,New Zealand,Sauvignon Blanc,Top-Estate New Zealand Sauvignon Blanc,80,23.99,12,2024,287.88
+Stones & Bones 3 litre Wine Box,Portugal,Touriga Nacional-based blend,Portuguese Fave—Now in a Sleek Box,11,35.99,12,2021,431.88
+Belle Roche Cabernet Sauvignon,France,Cabernet Sauvignon,Stylish French Cab,421,19.99,12,2024,239.88
+La Chiamata Montepulciano d'Abruzzo,Italy,Montepulciano,Classic Italian Montepulciano,133,15.99,12,2023,191.88
+The Assist Cabernet Sauvignon,United States,Cabernet Sauvignon,Triumphant California Cabernet,93,19.99,12,2024,239.88
+The Clink Petite Sirah Petit Verdot,United States,Red blend,Double-Gold-Medal California Red,64,18.99,12,2022,227.88
+Stonewall Sauvignon Blanc,New Zealand,Sauvignon Blanc,Top-Estate Marlborough Sauvignon Blanc,241,23.99,12,2023,287.88
+Drawbridge Cabernet Sauvignon,United States,Cabernet Sauvignon,Classic California Cabernet,109,18.99,12,2023,227.88
+Corsiero Nero Puglia,Italy,Nero di Troia,Rich Italian Rarity,974,18.99,12,2024,227.88
+RedHeads Barrel Monkeys Shiraz Cabernet,Australia,Shiraz-based blend,Barrel-Aged Barossa Blend,3,24.99,12,2022,299.88
+Saserello Bianco,Italy,White blend,Vibrant Sicilian White Rarity,48,16.99,12,2023,203.88
+Alambrado Malbec,Argentina,Malbec,Forever Favorite Malbec,1039,22.99,12,2024,275.88
+Split Rock Sauvignon Blanc,New Zealand,Sauvignon Blanc,Acclaimed New Zealand Sauvignon,157,21.99,12,2023,263.88
+Domaine Martin Rasteau,France,Grenache-based blend,Old-Vine Rhône red,51,36.99,12,2023,443.88
+McPherson Aquarius Marsanne Viognier,Australia,Marsanne-based blend,Vibrant Aussie White,53,21.99,12,2024,263.88
+Palacio del Conde Gran Selección,Spain,Tempranillo,Barrel-Aged Spanish Gran Selección,790,19.99,12,2020,239.88
+Prestige de Mireval Cabernet Sauvignon,France,Cabernet Sauvignon,Barrel-Aged French Cabernet,86,18.99,12,2024,227.88
+Cuvée Prestigieux Côtes du Rhône,France,Grenache-based blend,Delicious Côtes-du-Rhône,16,18.99,12,2023,227.88
+La Scelta di Sofia Toscana,Italy,Sangiovese,Rare White Sangiovese,2,21.99,12,2024,263.88
+The Huguenot Chenin Blanc,South Africa,Chenin Blanc,Historic-Estate Chenin Blanc,68,11.99,12,2021,143.88
+Rookery Red Zinfandel,United States,Zinfandel,Smooth California Zinfandel,11,17.99,12,2023,215.88
+Maureen O'Hara Sauvignon Blanc,United States,Sauvignon Blanc,Striking Washington Sauvignon Blanc,5,24.99,12,2022,299.88
+Currant Bun Red Blend,United States,Red blend,A True California Treat,82,16.99,12,2023,203.88
+Portinho do Côvo Branco,Portugal,White blend,Fresh Portuguese White,43,16.99,12,2024,203.88
+Pillastro Selezione d'Oro Puglia,Italy,Primitivo-based blend,Sensational Italian Blockbuster,777,24.99,12,2023,299.88
+Tenuta Albrizzi Cabernet Sauvignon Primitivo,Italy,Red blend,Sumptuous ‘Super Puglian’,291,17.99,12,2022,215.88
+Big Hitter Souzao,United States,Souzao,96-Point California Rarity,2,19.99,12,2022,239.88
+La Chiamata Trebbiano,Italy,Trebbiano,Classic Italian Trebbiano,51,15.99,12,2024,191.88
+Rushrose GSM,United States,Red blend,Quintessential California GSM,35,32.99,12,2024,395.88
+Aluado Alicante Bouschet Reserva,Portugal,Alicante Bouschet,Sumptuous Portuguese Reserva,219,21.99,12,2022,263.88
+Pillastro Nero,Italy,Cabernet-based blend,Old-Vine Puglian Red,264,24.99,12,2023,299.88
+Tenuta Fenice Nero d’Avola,Italy,Nero d'Avola,Historic Sicilian Nero d’Avola,316,19.99,12,2024,239.88
+Pagos de Tahola Rioja Reserva,Spain,Tempranillo,Perfectly Aged Rioja Reserva,211,29.99,12,2016,359.88
+Hayrick Sauvignon Blanc,United States,Sauvignon Blanc,Fresh California Sauvignon Blanc,12,17.99,12,2023,215.88
+Fire & Foal Sauvignon Blanc,South Africa,Sauvignon Blanc,Zippy South African Sauvignon,28,15.99,12,2024,191.88
+Viña Altogrado,Spain,Garnacha,Old-Vine Spanish Garnacha,157,19.99,12,2024,239.88
+La Belle Saison Sauvignon Blanc,France,Sauvignon Blanc,Crisp French Sauvignon Blanc,2,16.99,12,2024,203.88
+The Coach House Malbec,South Africa,Malbec,Juicy South African Malbec,3,18.99,12,2024,227.88
+Inside Track Limited Release Barossa Valley Cabernet Sauvignon,Australia,Cabernet Sauvignon,Top-Secret Barossa Cabernet,3,29.99,12,2022,359.88
+Bottle Poetry Pinot Noir,United States,Pinot Noir,Silky California Pinot Noir,65,21.99,12,2023,263.88
+Silver Puffs Sauvignon Blanc,United States,Sauvignon Blanc,Tropical California Sauvignon Blanc,112,19.99,12,2024,239.88
+The Clink Petite Sirah Petit Verdot,United States,Red blend,Criminally Good California Red,64,18.99,12,2023,227.88
+Croix Saint Salvy Sauvignon Blanc,France,Sauvignon Blanc,Hidden Gem Sauvignon Blanc,2,19.99,12,2023,239.88
+Cuvée du Vatican Réserve de l'Abbé Côtes du Rhône,France,Syrah-based blend,Top-Estate Côtes-du-Rhône Réserve,289,19.99,12,2024,239.88
+Capisco Pinot Grigio,Italy,Pinot Grigio,Thrilling Italian Pinot Grigio,1,14.99,12,2023,179.88
+Ciccio Grillo,Italy,Grillo,Authentic Italian Grillo,1,21.99,12,2024,263.88
+La Nuit Blanche Cabernet Blanc,France,Cabernet Blanc,Super-Rare French White,13,26.99,12,2024,323.88
+Drawbridge Cabernet Sauvignon,United States,Cabernet Sauvignon,Classic California Cabernet,109,18.99,12,2024,227.88
+Saracosa Governo Rosso,Italy,Sangiovese-based blend,Sumptuous Tuscan Rarity,673,24.99,12,2024,299.88
+Aluado Chardonnay,Portugal,Chardonnay,Elegant Portuguese Chardonnay,1,15.99,12,2024,191.88
+Vina Baccana Pinot Grigio,Italy,Pinot Grigio,Classic Italian Pinot Grigio,532,16.99,12,2024,203.88
+Purezza Red,Italy,Nero di Troia-based blend,Organically Grown Italian Red,18,17.99,12,2024,215.88
+Sunny Farm Chardonnay,United States,Chardonnay,94-Point California Chardonnay,50,17.99,12,2022,215.88
+Vignobles Canet Picpoul de Pinet,France,Picpoul,Mouthwatering Mediterranean White,88,24.99,12,2023,299.88
+Stonewall Sauvignon Blanc,New Zealand,Sauvignon Blanc,Top-Estate Marlborough Sauvignon Blanc,241,24.99,12,2024,299.88
+Sam Trimboli Bin Select Shiraz Durif Grenache,Australia,Shiraz-based blend,Top Winemaker’s Sumptuous Aussie Red,3,18.99,12,2024,227.88
+HJ Fabre Assemblage Malbec Syrah,Argentina,Malbec-based blend,Unique Argentine Malbec Blend,8,23.99,12,2023,287.88
+13 Years Reserve Cabernet Sauvignon,United States,Cabernet Sauvignon,Award-Winning California Cabernet Reserve,6,29.99,12,2021,359.88
+The Huguenot Chenin Blanc,South Africa,Chenin Blanc,Historic-Estate Chenin Blanc,68,14.99,12,2025,179.88
+La Chiamata Montepulciano Riserva,Italy,Montepulciano,Montepulciano Riserva Rarity,3,24.99,12,2020,299.88
+Alessandro Gallici Pinot Grigio,Italy,Pinot Grigio,Classic Italian Pinot Grigio,305,13.99,12,2024,167.88
+Schroeder Estate Patagonia Malbec,Argentina,Malbec,Powerful Patagonia Malbec,709,24.99,12,2024,299.88
+Villa Clarius,France,Carignan,Smooth Southern French Red,5,18.99,12,2024,227.88
+Initial Cabernet Sauvignon,United States,Cabernet Sauvignon,Top-Estate California Cab,20,21.99,12,2021,263.88
+Bartolomeo Lorenzi Valpolicella Ripasso,Italy,Red blend,"Decadent ""Baby Amarone""",32,29.99,12,2021,359.88
+The Black Stump Reserve Shiraz,Australia,Shiraz,Old Vine Australian Shiraz Reserve,194,21.99,12,2023,263.88
+Ermita de San Lorenzo Gran Selección,Spain,Garnacha-based blend,Stunning Spanish Rarity,8,19.99,12,2018,239.88
+Maison Maillet Rosé,France,Grenache-based blend,Classic Provence Rosé,2,17.99,12,2024,215.88
+Thick Skin Cabernet Sauvignon,United States,Cabernet Sauvignon,Bold California Cabernet.,49,22.99,12,2023,275.88
+Alessandro Gallici Prosecco Anniversario Rosato,Italy,Glera,Luxury Vintage Prosecco – in Pink!,15,26.99,12,2023,323.88
+Château Moulin du Prieur,France,Merlot,Brilliant Boutique Bordeaux,109,19.99,12,2022,239.88
+Le Champ des Etoiles Chardonnay,France,Chardonnay,Barrel-Aged French Chardonnay,145,21.99,12,2024,263.88
+HJ Fabre Gran Reserva Malbec,Argentina,Malbec,Star Winemaker’s Gran Reserva Malbec,109,34.99,12,2022,419.88
+Bariloche Malbec,Argentina,Malbec,Roaring Good Argentine Malbec,27,18.99,6,2023,113.94
+Sendero das Meigas Albariño,Spain,Albariño,Gold-Medal Albariño,20,21.99,12,2020,263.88
+Cabalié Rosé,France,Grenache-based blend,Mouthwatering French Rosé,3,17.99,12,2024,215.88
+Yarrunga Field Special Reserve White,Australia,White blend,Sunshine-in-a-Glass from Australia,138,15.99,12,2024,191.88
+Altos de la Guardia Selección de Familia Rioja,Spain,Tempranillo,Rare Rioja Library Release,1,29.99,12,2014,359.88
+Amandla Sauvignon Blanc,South Africa,Sauvignon Blanc,Wine of Show Winner at Our NYC Tasting 2025,13,19.99,12,2024,239.88
+Al Hirschfeld Petite Sirah,United States,Petite Sirah,Scene-Stealing California Petite Sirah,3,17.99,12,2021,215.88
+L'Epiphanie de Bordeaux Blanc,France,Sauvignon Blanc,Insiders-Only White Bordeaux,2,49.99,12,2021,599.88
+Le Malbec d’Hervé,France,Malbec,Rich French Malbec,73,15.99,12,2021,191.88
+Late Arrival Carignane,United States,Carignan,Rare Lodi Carignane,8,21.99,12,2021,263.88
+Bartolomeo Lorenzi Amarone,Italy,Red blend,Fine Amarone from Pioneering Winery,25,59.99,12,2020,719.88
+The Gooseberry Bush,South Africa,Colombard,South African Thirst Quencher,215,14.99,12,2024,179.88
+GFF Petite Sirah,United States,Petite Sirah,Family-Made California Red,8,19.99,12,2023,239.88
+Camera Obscura Petit Verdot,United States,Petit Verdot,"Deep, Dark California Petit Verdot",8,21.99,12,2023,263.88
+Left of Ordinary Tannat,United States,Tannat,Best-in-Glass California Tannat,18,21.99,12,2023,263.88
+Thick Skin Cabernet Sauvignon,United States,Cabernet Sauvignon,Bold Gold-Medal California Cabernet,49,21.99,12,2022,263.88
+Prezza Prosecco Rosé,Italy,Glera,Top-Estate Prosecco Rosé,10,21.99,12,2021,263.88
+KAPA Cabernet Sauvignon,United States,Cabernet Sauvignon,Gold-Medal California Cabernet,35,21.99,12,2022,263.88
+Château La Clarière Blanc,France,Sauvignon-based blend,Classy White Bordeaux,11,34.99,12,2023,419.88
+Henry Greuzard Mâcon la Roche Vineuse Vieilles Vignes,France,Chardonnay,Old-Vine Burgundy,29,26.99,12,2021,323.88
+Wild Child Chardonnay,South Africa,Chardonnay,Refreshing South African Chardonnay,94,21.99,12,2024,263.88
+w/o Nero d'Avola Rosato,Italy,Nero d'Avola,Organically Grown Sicilian Rosato,3,19.99,12,2024,239.88
+The Assist Cabernet Sauvignon,United States,Cabernet Sauvignon,Triumphant California Cabernet,93,19.99,12,2023,239.88
+Lobo e Falcão Branco,Portugal,Fernão Pires-based blend,Top-Estate Portuguese White,123,19.99,12,2024,239.88
+Brightwater Nelson Sauvignon Blanc,New Zealand,Sauvignon Blanc,Thrilling New Zealand Sauvignon Blanc,27,26.99,12,2023,323.88
+Julien Bouchard Bourgogne Côte d'Or Pinot Noir,France,Pinot Noir,The Best of Burgundy,1,39.99,12,2022,479.88
+Book of the Day Pinot Noir,United States,Pinot Noir,Lush California Pinot Noir,1,23.99,12,2023,287.88
+Lustrum Petite Sirah,United States,Petite Sirah,"Petite Sirah, BIG flavor",8,18.99,12,2023,227.88
+Ticking Clock White Blend,United States,White blend,Delicious Lodi Discovery,10,21.99,12,2023,263.88
+Le Malbec d’Hervé,France,Malbec,Rich Southern French Malbec,73,17.99,12,2024,215.88
+Cabalié Origine,France,Red blend,The Ultimate Cabalié,24,28.99,12,2023,347.88
+Terra di Nonno Vermentino,Italy,Vermentino,Historic Sicilian Vermentino,57,16.99,12,2023,203.88
+Saracosa Vermentino,Italy,Vermentino,Top-Estate Tuscan Vermentino,142,22.99,12,2023,275.88
+Grande Réserve de Gassac Blanc,France,White blend,Iconic French Estate’s Grande Réserve,291,21.99,12,2023,263.88
+Vale de Rosas Pinot Noir,Portugal,Pinot Noir,Top-Estate Portuguese Pinot Noir,15,16.99,12,2022,203.88
+The American LGBTQ+ Pride Blend Red Wine,United States,Cabernet-based blend,Vibrant Red With a Cause,1,49.99,12,2020,599.88
+La Chiamata Montepulciano Riserva,Italy,Montepulciano,Montepulciano Riserva Rarity,3,24.99,12,2018,299.88
+Baronesa de Vilar LBV Port (50cl),Portugal,Touriga Nacional-based blend,Bold Late-Bottled Vintage Port,1,29.99,3,2019,89.97
+On The Line Chenin Blanc,United States,Chenin Blanc,Cool and Collected Cali Chenin,12,24.99,12,2023,299.88
+RedHeads Harmonie Rox Chardonnay,Australia,Chardonnay,Vibrant Australian Chardonnay,9,24.99,12,2024,299.88
+Violette de Mireval,France,Négrette,Gold-Medal French Rosé,9,17.99,12,2023,215.88
+Les Chemins de l Abbaye,France,Sauvignon Blanc,Premium Pouilly-Fumé,14,33.99,12,2021,407.88
+Belle Roche Cabernet Sauvignon,France,Cabernet Sauvignon,Stylish French Cabernet,421,19.99,12,2023,239.88
+Château La Clarière,France,Merlot-based blend,Multi-Gold 2022 Bordeaux,22,39.99,12,2022,479.88
+It's a Wonderful Life Red Blend,United States,Red blend,Heartwarming California Red,4,18.99,12,2021,227.88
+Avera Touriga Nacional,United States,Touriga Nacional,93-Point Rare California Touriga Nacional,20,23.99,12,2020,287.88
+TCM Summer Under the Stars,United States,Chardonnay,Summer-in-a-Glass California Chardonnay,6,19.99,12,2021,239.88
+L'Estabel Grande Cuvée Comtesse,France,Cinsault,Elegant Southern French Rosé,10,29.99,12,2023,359.88
+w/o Frappato,Italy,Frappato,Gold-Medal Organically Grown Sicilian Red,44,19.99,12,2024,239.88
+Chemin du Belvedère Blanc,France,Marsanne,Elegant Rival to White Hermitage,1,28.99,12,2020,347.88
+Château Le Vieux Duché,France,Merlot-based blend,Gold-Medal Lalande-de-Pomerol,13,40.99,12,2020,491.88
+KAPA Cabernet Sauvignon,United States,Cabernet Sauvignon,Crowdpleasing California Cab,35,21.99,12,2023,263.88
+Selvarossa dei Confratelli Riserva,Italy,Negroamaro-based blend,Insiders-Only Italian Riserva,13,39.99,12,2021,479.88
+Château La Clarière,France,Merlot-based blend,91-Point Bordeaux,23,39.99,12,2023,479.88
+Flor de San Martín Garnacha Blanca,Spain,Garnacha Blanca,Gold-Medal Spanish White Garnacha,101,17.99,12,2023,215.88
+Visionario,Italy,White blend,Elegant Venetian White,69,22.99,12,2024,275.88
+Baronesa de Vilar Port Finish Reserva,Portugal,Touriga Nacional-based blend,Sumptuous Reserva Aged in Port Barrels,77,26.99,12,2021,323.88
+Silver Puffs Sauvignon Blanc,United States,Sauvignon Blanc,Tropical and Compelling California Sauvignon,112,19.99,12,2023,239.88
+NPR Weekend Edition CA Red Blend,United States,Red blend,Authoritative Red Blend,1,20.99,12,2024,251.88
+Bartolomeo Lorenzi Rosso Veronese,Italy,Corvina-based blend,Acclaimed Valpolicella Red,6,18.99,12,2022,227.88
+Collezione di Paolo Chianti,Italy,Sangiovese,Top Winemaker’s Signature Chianti,616,19.99,12,2024,239.88
+Green Darner Riesling,United States,Riesling,Alluring Washington Riesling,4,24.99,12,2023,299.88
+El Mojón,Spain,Tempranillo-based blend,"92-Point, Barrel-Aged Spanish Red",2,24.99,12,2023,299.88
+Cossaro Monferrato Nebbiolo,Italy,Nebbiolo,Top-Estate Piedmont Nebbiolo,4,27.99,12,2023,335.88
+Lobster Shack Sauvignon Blanc,South Africa,Sauvignon Blanc,Thrilling Sauvignon Blanc,26,15.99,12,2024,191.88
+Villa Pani Brachetto (500ml),Italy,Brachetto,Italy’s Sweet Red Treasure,4,18.99,12,2020,227.88
+Subbia Antica Brunello di Montalcino,Italy,Sangiovese,94-Point Brunello,7,54.99,12,2015,659.88
+Cabalié Blanc,France,Viognier-based blend,Acclaimed Southern French White,103,17.99,12,2023,215.88
+Altos de la Guardia Crianza Rioja,Spain,Tempranillo,"91-Point, Gold-Medal Rioja",241,25.99,12,2021,311.88
+Collezione di Paolo Poggerissi,Italy,Sangiovese,Elegant Tuscan Sangiovese,46,15.99,12,2024,191.88
+Château Vieil Orme,France,Cabernet-based blend,Classic Mature Bordeaux,1,24.99,12,2020,299.88
+Drawbridge Reserve Cabernet Sauvignon,United States,Cabernet Sauvignon,Oak-Aged California Cabernet,6,24.99,12,2023,299.88
+Amandla Shiraz Zinfandel,South Africa,Shiraz-based blend,Powerful South African Shiraz-Zin,11,19.99,12,2023,239.88
+Wings Cabernet Franc,United States,Cabernet Franc,Historic California Cabernet Franc,4,21.99,12,2020,263.88
+La Cueva Cabernet Sauvignon,Spain,Cabernet Sauvignon,Spanish Cabernet,7,16.99,12,2024,203.88
+Portinho do Côvo,Portugal,Red blend,Star Winemaker’s Portuguese Red,138,16.99,12,2023,203.88
+Schroeder Estate Cabernet Sauvignon,Argentina,Cabernet Sauvignon,Extrermely Good Cab from the Extreme South,396,21.99,12,2023,263.88
+Château Le Coin Bordeaux,France,Merlot-based blend,Classic Dark-Fruited Bordeaux,6,22.99,12,2023,275.88
+HJ Fabre Assemblage Cabernet Franc Cabernet Sauvignon Malbec,Argentina,Cabernet Franc-based blend,Unique Argentine Red Blend,3,23.99,12,2023,287.88
+Il Sorriso,Italy,Lucido,Authentic Sicilian White,7,17.99,12,2024,215.88
+Touché William Knuttel Cabernet Sauvignon Reserve,United States,Cabernet Sauvignon,"Luxe, Gold-Medal Napa Cabernet Reserve",4,59.99,12,2021,719.88
+Paterson Point Chardonnay,United States,Chardonnay,95-Point Sonoma Chardonnay,7,29.99,12,2020,359.88
+Villa Blue Albariño,South Africa,Albariño,Top-Estate Albariño,9,21.99,12,2024,263.88
+A Christmas Carol Lodi Red Blend,United States,Red blend,Holly Jolly Lodi Red,6,18.99,12,2021,227.88
+Beach Pass Paso Robles Rosé,United States,Rosé blend,Acclaimed California Rosé,11,16.99,12,2020,203.88
+Vinha do Fava Reserva,Portugal,Castelão-based blend,Top-Estate Portuguese Reserva,34,24.99,12,2023,299.88
+GFF Chardonnay,United States,Chardonnay,Elegant California Chardonnay,75,18.99,12,2023,227.88
+Château Le Coin Sauvignon Gris,France,Sauvignon Gris,Elegant White Bordeaux,146,22.99,12,2024,275.88
+Jean-Pierre Moueix Bordeaux,France,Merlot,Big-Name 2020 Bordeaux,135,29.99,12,2020,359.88
+Hollywood Legends Cabernet Sauvignon,United States,Cabernet Sauvignon,Bombshell California Cabernet,3,19.99,12,2021,239.88
+Schroeder Estate El Patrimonio,Argentina,Cabernet-based blend,Ultra-Rare Patagonia Cabernet,5,34.99,12,2021,419.88
+Edouard Leiber Cuvée Prestige,France,White blend,Family Estate’s Alsatian Cuvée,3,23.99,12,2024,287.88
+Berry and Spice Zinfandel,United States,Zinfandel,Bold Paso Robles Zinfandel,7,21.99,12,2020,263.88
+Domaine de Longuet Viognier,France,Viognier,Beautiful French Viognier,4,19.99,12,2023,239.88
+Schroeder Estate Blanco,Argentina,White blend,Top-Estate Argentine White,29,24.99,12,2021,299.88
+RedHeads 1888 Cabernet Sauvignon,Australia,Cabernet Sauvignon,Impressive Barossa Valley Cabernet,21,39.99,12,2022,479.88
+Château La Clarière Blanc,France,Sauvignon-based blend,Classy White Bordeaux,11,34.99,12,2022,419.88
+Manga del Brujo,Spain,Garnacha-based blend,94-Point Châteauneuf Rival,210,26.99,12,2021,323.88
+Altos de la Guardia Reserva Rioja,Spain,Tempranillo,Refined Rioja Reserva,128,32.99,12,2019,395.88
+NPR Life Kit Pinot Grigio,United States,Pinot Grigio,Rule-Breaking Pinot Grigio,1,24.99,12,2022,299.88
+NPR All Things Considered Cabernet Sauvignon,United States,Cabernet-based blend,"Smooth, Washington State Cabernet",2,22.99,12,2022,275.88
+Lost Isle Chardonnay,United States,Chardonnay,Acclaimed California Chardonnay,1,22.99,12,2023,275.88
+Paul Sorvino Cabernet Sauvignon,United States,Cabernet Sauvignon,Big-Name California Cabernet,5,24.99,12,2021,299.88
+Rifronzoli Rosso di Toscana IGT,Italy,Sangiovese-based blend,Ultra-Rare Super Tuscan Masterpiece,9,39.99,12,2021,479.88
+Forrest Gump Pinot Gris,United States,Pinot Gris,Vibrant Washington Pinot Gris,4,19.99,12,2022,239.88
+Val de Cabrera,Spain,Garnacha-based blend,Value-Driven Spanish Red,7,19.99,12,2023,239.88
+Rookery Red Zinfandel,United States,Zinfandel,Smooth California Zinfandel,11,17.99,12,2024,215.88
+La Cuadrilla de Sobreño,Spain,Tinta de Toro,Tantalizing Spanish Red,21,19.99,12,2022,239.88
+Selva del Moro Chianti Classico Riserva,Italy,Sangiovese-based blend,Luxe Chianti Classico Riserva,7,35.99,12,2019,431.88
+Domaine de Longuet Viognier,France,Viognier,Beautiful French Viognier,4,19.99,12,2024,239.88
+Black Saint Peter Old Vine Zinfandel (half bottle),United States,Zinfandel,Award-Winning Lodi Zinfandel,608,12.99,12,2020,155.88
+Armagia Etna Rosso,Italy,Nerello Mascalese-based blend,Barrel-Aged Sicilian Specialty,8,39.99,12,2019,479.88
+Shroud Mountain Cabernet Sauvignon Magnum,United States,Cabernet Sauvignon,Best-Selling California Cab—in MAGNUM,511,49.99,12,2021,599.88
+Capital Z Zinfandel,United States,Zinfandel,Intense Lodi Zinfandel,222,16.99,12,2024,203.88
+Château de Colombe Castillon Côtes de Bordeaux,France,Merlot-based blend,Gold-Medal Saint-Émilion Rival,199,28.99,12,2022,347.88
+Luciani Brunello di Montalcino,Italy,Sangiovese,Boutique Estate's Fine Brunello,17,64.99,12,2019,779.88
+Château Sixtine Châteauneuf-du-Pape,France,Grenache-based blend,Opulent Châteauneuf Icon,8,69.99,12,2023,839.88
+Seven5Zero Kosher Cabernet Sauvignon,Israel,Cabernet Sauvignon,Leading Israeli Estate’s Cabernet Sauvignon,23,29.99,12,2021,359.88
+Sentiero dei Pini Pinot Grigio,Italy,Pinot Grigio,Ultra-Fresh Italian Pinot Grigio,248,18.99,12,2024,227.88
+Il Pino Pinot Grigio,Italy,Pinot Grigio,Refreshing Italian Pinot Grigio,297,17.99,12,2024,215.88
+Domaine Daniel Reverdy Sancerre,France,Sauvignon Blanc,Boutique Sancerre,33,39.99,12,2023,479.88
+Tenuta Albrizzi Cabernet Sauvignon Primitivo,Italy,Red blend,Sumptuous ‘Super Puglian’,291,17.99,12,2023,215.88
+Domare Barbera,Italy,Barbera,Silky Piedmont Red,2,21.99,12,2023,263.88
+Bloom & Bounty Chardonnay,United States,Chardonnay,Rich California Chardonnay,4,19.99,12,2023,239.88
+Lobo e Falcão Branco,Portugal,Fernão Pires-based blend,"Acclaimed, Top-Estate Portuguese White",9,16.99,12,2022,203.88
+East West Red Wine,United States,Red blend,Acclaimed California Red,17,17.99,12,2023,215.88
+Les Pépites,France,Malbec-based blend,Venerated French Malbec Blend,9,22.99,12,2024,275.88
+Bottle Poem Pinot Noir,United States,Pinot Noir,Silky California Pinot Noir,63,21.99,12,2024,263.88
+Airplane Chardonnay,United States,Chardonnay,High-Flying California Chardonnay,5,17.99,12,2020,215.88
+Guyendac,France,Sauvignon Blanc,White Bergerac that Overdelivers,44,19.99,12,2023,239.88
+Cooper Point Merlot,United States,Merlot,Plush California Merlot,37,18.99,12,2023,227.88
+Vigné-Lourac Gaillac Les Perlés,France,White blend,Luxurious French White,29,21.99,12,2023,263.88
+RedHeads Night Of The Living Red,Australia,Durif-based blend,"Handcrafted, Top-Estate Australian Red",7,39.99,12,2022,479.88
+Asado Malbec,Argentina,Malbec,BBQ-Ready Argentine Malbec,137,19.99,12,2024,239.88
+Shroud Mountain Cabernet Sauvignon Reserve,United States,Cabernet Sauvignon,Barrel-Aged Paso Robles Cab,2,26.99,12,2022,323.88
+Jets Uncorked Legacy Cabernet Sauvignon,United States,Cabernet Sauvignon,Exclusive Cabernet for Jets Fans,2,39.99,12,2022,479.88
+Hitch Merlot,United States,Merlot,Thrilling Washington Merlot,2,22.99,12,2020,275.88
+L'Estabel Grande Cuvée Comtesse,France,Cinsault,Elegant Southern French Rosé,10,29.99,12,2024,359.88
+Tbilvino Qvevris Saperavi,Georgia,Saperavi,Ultra-Rare Georgian Red,2,34.99,12,2021,419.88
+Hayrick Sauvignon Blanc,United States,Sauvignon Blanc,Fresh California Sauvignon Blanc,12,17.99,12,2024,215.88
+The Creamery Dunnigan Hills Chardonnay,United States,Chardonnay,"Award-Winning, Opulent California Chardonnay",8,22.99,12,2019,275.88
+The Archduke Old Vine Zinfandel,United States,Zinfandel,Esteemed Sonoma Zinfandel,18,28.99,12,2019,347.88
+Vilarissa Valley,Portugal,Red blend,Top-Estate Portuguese Red,61,24.99,12,2023,299.88
+Rushrose GSM,United States,Red blend,94-Point California GSM,35,32.99,12,2023,395.88
+Domaine du Mas Ensoleillé Rosé,France,Grenache-based blend,Esteemed Provence Rosé,48,19.99,12,2024,239.88
+Scarànto,Italy,Sangiovese-based blend,100-Point Super Tuscan,79,34.99,12,2020,419.88
+Benedictus de Vatican,France,Red blend,Châteauneuf Star’s Special-Edition Red,230,22.99,12,2023,275.88
+L'Epiphanie de Margaux,France,Cabernet Sauvignon,Multi-Gold Margaux,1,69.99,12,2020,839.88
+Moulin de Pontfract Rosé,France,Grenache-based blend,Modern Rosé from 300-Year-Old Estate,40,21.99,12,2024,263.88
+Republique Cabernet Sauvignon,United States,Cabernet Sauvignon,Velvety Paso Robles Cabernet,312,29.99,12,2023,359.88
+Le Secret des Etoiles Pinot Noir,France,Pinot Noir,Barrel-Aged Pinot Noir,35,29.99,12,2024,359.88
+Duca di Cardino Vino Nobile di Montepulciano,Italy,Sangiovese,Rich Tuscan Red,69,28.99,12,2019,347.88
+NPR Tiny Desk Sauvignon Blanc Columbia Valley,United States,Sauvignon Blanc,Symphonic Sauvignon Blanc,1,22.99,12,2023,275.88
+Canet Rôtie,France,Syrah-based blend,Côte Rôtie-Inspired Red,3,34.99,12,2023,419.88
+L’Estabel Grande Cuvée Comtesse Blanc,France,White blend,Rare White from an Acclaimed Co-op,1,29.99,12,2023,359.88
+Rated PG Pinot Grigio,United States,Pinot Grigio,Unique California Discovery,2,16.99,12,2023,203.88
+Le Presbytère de la Clarière,France,Cabernet Sauvignon,Single-Row Bordeaux Rarity,3,79.99,12,2020,959.88
+Drawbridge Reserve Cabernet Sauvignon,United States,Cabernet Sauvignon,Oak-Aged California Cabernet,6,24.99,12,2024,299.88
+NPR Consider This Sauvignon Blanc,United States,Sauvignon Blanc,Mouthwatering California Sauvignon Blanc,2,22.99,12,2022,275.88
+Black Saint Peter Zinfandel Reserve,United States,Zinfandel,Old-Vine Zinfandel Reserve,15,25.99,12,2023,311.88
+Boulé Brut Sparkling Wine,United States,Chardonnay,93-Point Washington Bubbly,6,29.99,12,2022,359.88
+La Chiamata Montepulciano d'Abruzzo Magnum,Italy,Montepulciano,90-Point Italian Montepulciano,115,32.99,12,2019,395.88
+Stones & Bones Reserva Magnum,Portugal,Red blend,Fine Portuguese Reserva Magnum,57,43.99,12,2020,527.88
+Cossaro,Italy,Nebbiolo,Top-Estate Piedmont Nebbiolo,4,27.99,12,2021,335.88
+La Cueva Cabernet Sauvignon,Spain,Cabernet Sauvignon,Rare Spanish Cabernet,7,16.99,12,2023,203.88
+NPR Wait Wait Don’t Tell Me Zinfandel,United States,Zinfandel,Newsworthy Lodi Zinfandel,15,19.99,12,2019,239.88
+Pillastro Primitivo Puglia (Magnum),Italy,Primitivo,94-Point Italian Bestseller,1890,32.99,12,2022,395.88
+14-27 Xinomavro,Greece,Xinomavro,Award-Winning Greek Red,14,23.99,12,2019,287.88
+Petticoat Moscato,United States,Moscatel,Award-Winning California Moscato,13,17.99,12,2021,215.88
+Passionada Alvarinho,Portugal,Alvarinho,Gold-Medal Portuguese Alvarinho,4,19.99,12,2021,239.88
+Lobster Shack Sauvignon Blanc,South Africa,Sauvignon Blanc,Thrilling Sauvignon Blanc,26,16.99,12,2025,203.88
+ROC Cuvée,France,Merlot,Unique Single-Vineyard Bordeaux,6,21.99,12,2022,263.88
+Saracosa Governo Magnum,Italy,Red blend,98-Point Tuscan Rarity—in MAGNUM,763,41.99,12,2020,503.88
+Julien Revillon Fleurie,France,Gamay,Top-Estate Cru Beaujolais,4,29.99,12,2021,359.88
+Château de Colombe Castillon Côtes de Bordeaux,France,Merlot-based blend,A Serious Saint-Émilion Rival,199,29.99,12,2023,359.88
+Benedictus de Vatican,France,Red blend,Châteauneuf Star’s Special-Edition Red,229,22.99,12,2024,275.88
+Stellenrust Heritage Collection Chenin Blanc,South Africa,Chenin Blanc,Top-Estate Chenin Blanc,378,22.99,12,2025,275.88
+Sentiero dei Pini Pinot Grigio,Italy,Pinot Grigio,Ultra-Fresh Italian Pinot Grigio,250,18.99,12,2023,227.88
+Camino de Seda,Spain,Monastrell-based blend,Multi-Gold-Medal Spanish Red,353,16.99,12,2023,203.88
+Wyfold Vineyard Brut,United Kingdom,Chardonnay-based blend,Award-Winning English Bubbly,2,59.99,12,2017,719.88
+Grand Vin de l'Epervier,France,Syrah-based blend,Luxurious Languedoc Cuvée,1,49.99,12,2023,599.88
+Inside Track Limited Release Central Otago Pinot Noir,New Zealand,Pinot Noir,Top-Secret New Zealand Pinot Noir,1,39.99,12,2022,479.88
+Rated PG Pinot Grigio,United States,Pinot Grigio,Unique California Discovery,2,16.99,12,2024,203.88
+14/27 Assyrtiko,Greece,Assyrtiko,Classic Greek Assyrtiko,2,29.99,12,2024,359.88
+The Vale McLaren Vale Shiraz,Australia,Shiraz,"Luxe, Award-Winning Australian Shiraz",4,21.99,12,2021,263.88
+East West Red Wine,United States,Red blend,Acclaimed California Red,17,17.99,12,2024,215.88
+Almost Famous Carignan,United States,Carignan,Rockin’ Lodi Carignan,5,22.99,12,2021,275.88
+Theo-Patra's Cuvee Blanc,United States,Chardonnay,Luxurious California Chardonnay,1,29.99,12,2021,359.88
+Villa Blue Albariño,South Africa,Albariño,Top-Estate Albariño,9,19.99,12,2023,239.88
+Saturday Night Fever Cabernet Sauvignon,United States,Cabernet Sauvignon,Groovy California Cabernet,6,21.99,12,2020,263.88
+Gold Top Chardonnay,Australia,Chardonnay,Creamy Australian Chardonnay,2,23.99,12,2023,287.88
+Salt Shaker Central Coast Picpoul,United States,Picpoul,Award-Winning California White,4,24.99,12,2021,299.88
+Left of Ordinary Tannat,United States,Tannat,Best-in-Glass California Tannat,17,22.99,12,2024,275.88
+Inside Track Chardonnay Willamette Valley,United States,Chardonnay,Gold-Medal Willamette Valley Chardonnay,3,40.99,12,2020,491.88
+Antonio Federici Collezione Oro,Italy,Montepulciano-based blend,99-Point Roman Treasure,8,32.99,12,2021,395.88
+Field of Stones Marlborough Rosé,New Zealand,Pinot Noir-based blend,Top-Estate New Zealand Rosé,2,27.99,12,2023,335.88
+Long Bay Sauvignon Blanc,South Africa,Sauvignon Blanc,95-Point South African Sauvignon,14,16.99,12,2021,203.88
+ROC Clairet,France,Merlot-based blend,Bordeaux's Original Rosé,5,19.99,12,2021,239.88
+La Porte des Princes Châteauneuf-du-Pape,France,Grenache-based blend,Gold-Medal Châteauneuf-du-Pape,4,39.99,12,2020,479.88
+Charles Cros,France,Red blend,Unique Southern French Red,24,19.99,12,2023,239.88
+Cabalié Origine,France,Red blend,The Ultimate Cabalié,24,28.99,12,2024,347.88
+Otto Decenni,Italy,Sangiovese-based blend,Superlative Super Tuscan,37,59.99,12,2021,719.88
+Inside Track Limited Release Chardonnay Los Carneros,United States,Chardonnay,Top-Secret Los Carneros Chardonnay,9,39.99,12,2023,479.88
+GFF Zinfandel,United States,Zinfandel,Sumptuous California Zinfandel,83,18.99,12,2023,227.88
+Château La Clarière,France,Merlot-based blend,Top-Estate Bordeaux,23,39.99,12,2021,479.88
+Château La Clarière,France,Merlot-based blend,Multi-Gold 2020 Bordeaux,23,39.99,12,2020,479.88
+Moulin du Prieur,France,Merlot-based blend,Brilliant Boutique Bordeaux,109,19.99,12,2023,239.88
+William Knuttel North Coast Sauvignon Blanc,United States,Sauvignon Blanc,Fine California Sauvignon Blanc,38,24.99,12,2021,299.88
+La Révélation,France,Roussanne,Gorgeous French Rousanne,56,24.99,12,2022,299.88
+Roche Bellemont Coteaux d'Aix-en-Provence Rosé,France,Grenache-based blend,Star Winemaker’s Provence Rosé,15,28.99,12,2023,347.88
+Bartolomeo Lorenzi Rosso Veronese,Italy,Corvina-based blend,Authentic Northern Italian Red,6,18.99,12,2021,227.88
+Duca di Cardino Rosso di Montepulciano,Italy,Red blend,Rich Tuscan Red,103,29.99,12,2020,359.88
+Republique Cabernet Sauvignon,United States,Cabernet Sauvignon,Velvety Paso Robles Cabernet,312,32.99,12,2024,395.88
+L'Art Provençal Rosé,France,Grenache-based blend,Artful Provence Rosé,67,22.99,12,2024,275.88
+Pagos de Tahola Gran Reserva Rioja,Spain,Tempranillo,Top-Estate Gran Reserva,109,37.99,12,2014,455.88
+Wyfold Vineyard Brut,United Kingdom,Chardonnay-based blend,93-Point English Brut of the Year,2,59.99,12,2016,719.88
+The Gooseberry Bush,South Africa,Colombard,South African Thirst Quencher,215,15.99,12,2025,191.88
+Esulé by RedHeads,Australia,Cabernet-based blend,Ultra-Rare Australian Red Blend,3,59.99,12,2021,719.88
+Chilled Cinsault,South Africa,Cinsault,South Africa’s Coolest Red,6,18.99,12,2023,227.88
+Cabalié Blanc,France,Viognier-based blend,Moreish Southern French White,28,17.99,12,2024,215.88
+TCM 30 Cabernet Sauvignon,United States,Cabernet Sauvignon,Special-Edition California Cabernet,1,27.99,12,2022,335.88
+Bloom & Bounty Chardonnay,United States,Chardonnay,Rich California Chardonnay,4,19.99,12,2024,239.88
+La Multa Albilla Sobre Lías,Spain,Albilla de Villamalea,Rare Spanish White,1,34.99,12,2023,419.88
+Black Saint Peter Zinfandel Wine Box,United States,Zinfandel,Old-Vine California Zinfandel—Now in a Sleek Box,608,32.99,12,2022,395.88
+Touché William Knuttel Cabernet Sauvignon Reserve,United States,Cabernet Sauvignon,Luxe Napa Cabernet Reserve,4,69.99,6,2022,419.94
+On The Line Chenin Blanc,United States,Chenin Blanc,Elegant California Chenin Blanc,12,24.99,12,2024,299.88
+Palacio del Conde Gran Selección (magnum),Spain,Tempranillo,Double-Gold Spanish Gran Selección,778,38.99,12,2016,467.88
+Momtazi Family Estate Pinot Noir,United States,Pinot Noir,Exceptional Oregon Pinot,7,59.99,12,2017,719.88
+Momtazi Family Estate Pinot Noir,United States,Pinot Noir,Oregon’s Most Unique Pinot Noir,7,59.99,12,2016,719.88
+Alfred Hitchcock Petit Verdot,United States,Petit Verdot,"Deep, Dark California Petit Verdot",4,19.99,12,2021,239.88
+Schroeder Estate El Patrimonio,Argentina,Cabernet-based blend,Ultra-Rare Patagonia Cabernet,5,34.99,12,2022,419.88
+NPR Throughline White Blend,United States,White blend,Vibrant California White,3,23.99,12,2021,287.88
+Claude Lafond La Raie Reuilly Blanc,France,Sauvignon Blanc,Fine Loire Valley Sauvignon,3,32.99,12,2023,395.88
+Claude Lafond La Raie Reuilly Blanc,France,Sauvignon Blanc,Fine Loire Valley Sauvignon,3,29.99,12,2021,359.88
+Selva del Moro Chianti Classico,Italy,Sangiovese-based blend,Organically Grown Chianti Classico,13,29.99,12,2020,359.88
+Château Hoclet,France,Merlot-based blend,91+ Point Boutique Bordeaux,4,28.99,12,2020,347.88
+A Trip To The Moon White Blend,United States,White blend,Vibrant California White,6,18.99,12,2021,227.88
+Alerancia,Italy,White blend,Elegant Italian Orange Wine,10,26.99,12,2019,323.88
+Field of Stones Marlborough Rosé,New Zealand,Pinot Noir-based blend,Top-Estate New Zealand Rosé,2,24.99,12,2022,299.88
+Blues Brothers Petite Sirah,United States,Petite Sirah,Limited-Edition California Petite Sirah,10,19.99,12,2019,239.88
+Le Roi Pinot Noir,United States,Pinot Noir,Elegant Sonoma Pinot,4,39.99,12,2019,479.88
+Harold Lloyd Petite Sirah,United States,Petite Sirah,Smooth California Petite Sirah,16,19.99,12,2019,239.88
+L'Chateau Red Wine,United States,Red blend,Top-Estate California Red,38,19.99,12,2021,239.88
+Stone Pine Cabernet Sauvignon Navarra,Spain,Cabernet Sauvignon,Barrel-Aged Spanish Cabernet,19,24.99,12,2022,299.88
+RedHeads Harmonie Rox Chardonnay,Australia,Chardonnay,"Vibrant, Gold-Medal Australian Chardonnay",9,24.99,12,2023,299.88
+Château Les Aubitriés,France,Merlot-based blend,Gold-Medal Red Bordeaux,40,19.99,12,2022,239.88
+Fortissimo,Portugal,Touriga Nacional-based blend,Bold Portuguese Blockbuster,53,19.99,12,2022,239.88
+Diemersdal Winter Ferment Sauvignon Blanc,South Africa,Sauvignon Blanc,Top-Estate Sauvignon Blanc,9,39.99,12,2021,479.88
+Shroud Mountain Cabernet Sauvignon Magnum,United States,Cabernet Sauvignon,Hugely Popular California Cabernet—in Magnum,511,49.99,12,2022,599.88
+Hole in the Clouds Sauvignon Blanc,New Zealand,Sauvignon Blanc,Top-Estate New Zealand Sauvignon Blanc,80,23.99,12,2023,287.88
+Barbuto Primitivo,Italy,Primitivo,Top-Estate Italian Primitivo,109,21.99,12,2024,263.88
+Manga del Brujo Blanco,Spain,Macabeo-based blend,Old-Vine Spanish White,19,26.99,12,2022,323.88
+Création d'Émilie Châteauneuf-du-Pape,France,Grenache-based blend,94-Point Châteauneuf Superstar,25,54.99,12,2020,659.88
+The Prophet by Chapel Hill McLaren Vale Cabernet Sauvignon,Australia,Cabernet Sauvignon,Alluring Aussie Cab,18,29.99,12,2023,359.88
+Le Rosé de La Clarière,France,Cabernet Franc-based blend,Boutique Bordeaux Rosé,1,29.99,12,2024,359.88
+Pillastro Selezione d'Oro Magnum,Italy,Primitivo-based blend,Special-Edition Italian Red,766,45.99,12,2021,551.88
+Luciani Brunello di Montalcino,Italy,Sangiovese,Boutique Estate's Fine Brunello,17,64.99,12,2020,779.88
+Luciani Brunello di Montalcino,Italy,Sangiovese,93-Point Brunello di Montalcino,4,59.99,12,2017,719.88
+Wyfold Vineyard Rosé,United Kingdom,Pinot Noir-based blend,"Fine, 96-Point English Rosé Bubbly",6,64.99,12,2018,779.88
+Wyfold Vineyard Rosé,United Kingdom,Pinot Noir-based blend,Trophy-Winning English Rosé Bubbly,6,64.99,12,2017,779.88
+Raymond District Collection The Bench Press,United States,Cabernet Sauvignon,Glorious Napa Cabernet,8,119.99,6,2022,719.94
+Château Ramage La Batisse,France,Cabernet-based blend,Cru Bourgeois Supérieur,64,31.99,12,2011,383.88
+Altos de la Guardia Crianza Rioja,Spain,Tempranillo,"90-Point, Gold-Medal Rioja",241,25.99,12,2020,311.88
+Heredad Chavarri Albariño Rías Baixas,Spain,Albariño,Top-Estate Spanish Albariño,49,26.99,12,2023,323.88
+Villa Broglia Gavi di Gavi,Italy,Cortese,Elegant Gavi di Gavi,119,24.99,12,2023,299.88
+Barón de Barbón Oak Aged Rioja,Spain,Tempranillo,Boutique Rioja Favorite,419,15.99,12,2022,191.88
+Fogbound Pinot Noir,United States,Pinot Noir,Coastal-Cool California Pinot,4,59.99,12,2023,719.88
+Château La Fleur Saint Bonnet,France,Merlot-based blend,95-Point Bordeaux Discovery,4,29.99,12,2023,359.88
+Les Belons,France,White blend,Seafood-Ready French White,5,24.99,12,2023,299.88
+Cabalié Blanc,France,Viognier-based blend,Luscious Southern French White,28,17.99,12,2023,215.88
+The Magpie Sauvignon Blanc,United States,Sauvignon Blanc,Boutique Napa Sauvignon Blanc,4,29.99,12,2023,359.88
+GFF Petite Sirah,United States,Petite Sirah,Family-made California Red,8,21.99,12,2024,263.88
+Lustrum Petite Sirah,United States,Petite Sirah,"Petite Sirah, BIG flavor",8,21.99,12,2024,263.88
+La Multa Albilla Sobre Lías,Spain,Albilla de Villamalea,A True Spanish Gem,1,34.99,12,2024,419.88
+Lost Isle Chardonnay,United States,Chardonnay,Acclaimed California Chardonnay,1,22.99,12,2024,275.88
+14/27 Assyrtiko,Greece,Assyrtiko,Classic Greek Assyrtiko,2,29.99,12,2022,359.88
+Touché William Knuttel Cabernet Sauvignon,United States,Cabernet Sauvignon,Boutique Sonoma Cabernet,7,49.99,12,2022,599.88
+Illustrious Reserve Red Blend,United States,Red blend,Gold-Medal Luxe Napa Reserve,1,69.99,12,2020,839.88
+Camera Obscura Petit Verdot,United States,Petit Verdot,"Deep, Dark California Petit Verdot",8,21.99,12,2024,263.88
+Camera Obscura Red Blend,United States,Red blend,"Deep, Dark, 94-Point California Red",8,21.99,12,2022,263.88
+Ticking Clock White Blend,United States,White blend,Delicious Lodi Discovery,10,21.99,12,2024,263.88
+Villa Clarius,France,Carignan,Gold-Medal Southern French Red,5,17.99,12,2022,215.88
+Vinas de Vaquero Pinot Noir,United States,Pinot Noir,"90-Point, Gold-Medal Sonoma Pinot Noir",12,32.99,12,2021,395.88
+Vinas de Vaquero Chardonnay,United States,Chardonnay,Pioneering Sonoma Chardonnay,6,29.99,12,2021,359.88
+Theo-Patra's Cuvee Cerise,United States,Red blend,Trailblazing California Red,4,39.99,12,2021,479.88
+Les Pépites,France,Malbec-based blend,90-Point French Malbec Blend,9,22.99,12,2023,275.88
+Muraccio,Italy,Sangiovese-based blend,"Rare, 91-Point Super Tuscan",6,29.99,12,2021,359.88
+Edouard Leiber Cuvée Prestige,France,White blend,Family Estate’s Alsatian Cuvée,3,22.99,12,2023,275.88
+Pica Zabal Rioja,Spain,Graciano-based blend,Organically Grown Rioja Rarity,11,24.99,12,2022,299.88
+Velvet Room Reserve,United States,Red blend,Ultra-Rare Napa Luxury,1,99.99,12,2022,1199.88
+Amelior Merlot,United States,Merlot,Silky California Merlot,13,21.99,12,2020,263.88
+Fogbound Arroyo Seco Clairette,United States,Clairette,90-Point California Discovery,2,24.99,12,2021,299.88
+Château Rigaud,France,Syrah-based blend,91-Point Southern French Superstar,4,27.99,12,2016,335.88
+Château Franc Bigaroux,France,Merlot-based blend,92-Point Saint-Émilion Grand Cru,5,49.99,12,2020,599.88
+Diving Board White Blend,United States,White blend,Delightful California White,2,18.99,12,2021,227.88
+Château Le Bonalguet,France,Merlot-based blend,Glory-Vintage Bordeaux,18,24.99,12,2022,299.88
+Palumbo Riserva,Italy,Nero di Troia,90-Point Italian Riserva,6,28.99,12,2012,347.88
+River Rock Syrah,United States,Syrah,Elegant Sonoma Syrah,2,34.99,12,2019,419.88
+Hommage à J Duèze,France,Grenache-based blend,Divine Châteauneuf-du-Pape,1,42.99,12,2020,515.88
+Alambrado Malbec Blanco,Argentina,Malbec,Unexpected White Malbec,23,19.99,12,2025,239.88
+Collezione di Paolo Contrappasso,Italy,Sangiovese-based blend,Top-Estate Super Tuscan,12,25.99,12,2022,311.88
+L'Épiphanie de Saint-Émilion Grand Cru,France,Merlot-based blend,Prestigious Saint-Émilion Grand Cru,8,59.99,12,2019,719.88
+Château Moine Vieux Saint-Émilion Grand Cru,France,Merlot-based blend,90-Point Saint-Émilion Grand Cru,1,39.99,12,2015,479.88
+Knotwood Horse Heaven Hills Cabernet Sauvignon Magnum,United States,Cabernet Sauvignon,Barrel-Aged Washington Cab—in MAGNUM,9,44.99,12,2019,539.88
+Raymond Library Collection Cabernet Sauvignon,United States,Cabernet Sauvignon,Top Estate’s Mature Napa Cabernet,1,99.99,6,2000,599.94
+Château Despagnet,France,Merlot-based blend,2020 Saint-Émilion Award-Winner,13,39.99,12,2020,479.88
+Luciani Rosso di Montalcino,Italy,Sangiovese,Top-Estate Tuscan Specialty,6,32.99,12,2022,395.88
+Castillo de Epifanía Rioja Alta Reserva,Spain,Tempranillo,Acclaimed Rioja Reserva,24,28.99,12,2017,347.88
+Tablas Creek Cuvee Paso Blanc,United States,White blend,"Iconic, Organically Grown California White",1,42.99,12,2020,515.88
+ROC Clairet,France,Merlot,Bordeaux's Original Rosé,5,19.99,12,2022,239.88
+Gold Star Red Wine,United States,Red blend,Barrel-Aged Napa Valley Exclusive,18,32.99,12,2018,395.88
+Les Deux Vallées Savennières,France,Chenin Blanc,Elegant Loire Chenin Blanc,6,39.99,12,2019,479.88
+Crab & Sole Monterey County Pinot Blanc Magnum,United States,Pinot Blanc,Seafood-Ready California White—in Magnum!,12,39.99,12,2020,479.88
+Borgo Torre,Italy,Bianchello di Metauro,Rare Italian White,3,39.99,12,2023,479.88
+Borgo Torre,Italy,Bianchello di Metauro,Gold-Medal Italian White,3,37.99,12,2021,455.88
+Bowhead Columbia Valley Sauvignon Blanc Magnum,United States,Sauvignon Blanc,Ultra-Fresh Washington Sauvignon—in Magnum,13,38.99,12,2019,467.88
+The Inaugural Gold Edition R Collection by Raymond Cabernet,United States,Cabernet Sauvignon,Gold-Edition California Cabernet,65,29.99,12,2024,359.88
+Vallino,Italy,Cabernet-based blend,Refined Super Tuscan,34,38.99,12,2020,467.88
+Vallino,Italy,Cabernet-based blend,92-Point Super Tuscan,34,34.99,12,2019,419.88
+Pagos de Tahola Selección de Martin,Spain,Tempranillo-based blend,Stellar Single-Vineyard Rioja,21,40.99,12,2016,491.88
+L'Epiphanie de Pauillac,France,Cabernet-based blend,Elite Pauillac from Superb Vintage,1,89.99,12,2020,1079.88
+L'Epiphanie de Pauillac,France,Cabernet-based blend,Rare Bordeaux Opportunity,1,69.99,12,2019,839.88
+Fine Form Chardonnay Mendocino County,United States,Chardonnay,Premium California Chardonnay,95,22.99,12,2020,275.88
+RedHeads 1888 Cabernet Sauvignon,Australia,Cabernet Sauvignon,Impressive Barossa Valley Caberne,21,39.99,12,2023,479.88
+Selvarossa dei Confratelli Riserva,Italy,Negroamaro-based blend,"92-Point, Insiders-Only Italian Riserva",13,39.99,12,2020,479.88
+Bold Move Red Blend,United States,Red blend,Acclaimed California Red Blend,136,15.99,12,2022,191.88
+Currant Bun Red Blend,United States,Red blend,A True California Treat,82,16.99,12,2024,203.88
+Currant Bun Red Blend,United States,Red blend,Gold-Medal California Red,82,16.99,12,2022,203.88
+Saracosa Governo Rosso (magnum),Italy,Sangiovese-based blend,Bestselling Tuscan Red—in MAGNUM,763,51.99,12,2023,623.88
+L’Épiphanie de Saint-Émilion,France,Merlot-based blend,Top-Secret Saint-Émilion Royalty,3,89.99,12,2023,1079.88
+Château La Clarière,France,Merlot-based blend,92-Point 2019 Bordeaux,23,39.99,12,2019,479.88
+Harrow & Hope Blanc de Noirs,United Kingdom,Pinot Noir-based blend,Gold-Medal English Bubbly,1,65.99,12,2018,791.88
+Violette de Mireval,France,Négrette,Vibrant French Rosé,9,17.99,12,2024,215.88
+Gold Star Vermentino Grenache Blanc,United States,White blend,Vibrant California White,10,24.99,12,2021,299.88
+Queen Bee Viognier,South Africa,Viognier,Buzzy South Africa Viognier,39,21.99,12,2025,263.88
+CA-BEAR-NAY Cabernet Sauvignon,United States,Cabernet Sauvignon,Sumptuous California Cabernet,124,23.99,12,2024,287.88
+Le Fughe,Italy,Cabernet Sauvignon,Rare Tuscan Cabernet,43,39.99,12,2021,479.88
+La Révélation Roussanne,France,Roussanne,Gorgeous French Roussanne,56,25.99,12,2024,311.88
+Création d'Émilie B Châteauneuf-du-Pape,France,Grenache-based blend,91-93 Point Châteauneuf Superstar,25,54.99,12,2021,659.88
+Scarànto,Italy,Sangiovese-based blend,Luxurious Super Tuscan,79,36.99,12,2022,443.88
+Barón de Barbón Albariño Rías Baixas,Spain,Albariño,Succulent Spanish Albariño,78,24.99,12,2023,299.88
+Château Marquisat de Binet,France,Merlot-based blend,Fine 2010 Saint-Émilion,11,39.99,12,2010,479.88
+Le Rosé de La Clarière,France,Cabernet Franc-based blend,Rare Boutique Bordeaux Rosé,1,29.99,12,2023,359.88
+Château Canet Vieilles Vignes Blanc,France,Roussanne-based blend,Old-Vine French Réserve White,6,29.99,12,2022,359.88
+Luciani Brunello di Montalcino Riserva,Italy,Sangiovese,Smooth and Complex Brunello Riserva,3,79.99,12,2017,959.88
+Luciani Brunello di Montalcino,Italy,Sangiovese,93-Point Brunello di Montalcino,17,64.99,12,2018,779.88
+Windsor Great Park Vineyard,United Kingdom,Chardonnay-based blend,94-Point Champagne Rival,6,69.99,12,2016,839.88
+Pedra do Cribo Albariño,Spain,Albariño,91-Point Spanish Albariño,30,32.99,12,2018,395.88
+El Bombero Gran Reserva,Spain,Garnacha-based blend,Perfectly Mature Gran Reserva,660,19.99,12,2017,239.88
+Château Sixtine Châteauneuf-du-Pape,France,Grenache-based blend,93-Point Châteauneuf Icon,8,69.99,12,2022,839.88
+Château Sixtine Châteauneuf-du-Pape,France,Grenache-based blend,"Top-Estate, 93-Point Châteauneuf-du-Pape",8,69.99,12,2021,839.88
+Château Sixtine Châteauneuf-du-Pape,France,Grenache-based blend,Top Estate’s 93-Point Châteauneuf-du-Pape,6,69.99,12,2020,839.88
+Bees Knees Chenin Blanc Viognier,South Africa,White blend,It Really is the Bee's Knees,330,17.99,12,2025,215.88
+Château du Tertre Belair,France,Merlot-based blend,Glory-Vintage 2022 Bordeaux,53,28.99,12,2022,347.88
+Peña Garnacha,Spain,Garnacha,Old-Vine Spanish Garnacha,10,16.99,12,2024,203.88
+Aluado Alicante Bouschet,Portugal,Alicante Bouschet,Bestselling Portuguese Red,1501,15.99,12,2024,191.88
+Le Secret des Etoiles Pinot Noir,France,Pinot Noir,"Luxurious, Barrel-Aged French Pinot Noir",35,29.99,12,2023,359.88
+Jean-Pierre Moueix Pomerol,France,Merlot-based blend,Top Pomerol from Pétrus Legend,3,69.99,12,2021,839.88
+Altos R Pigeage Tempranillo,Spain,Tempranillo,95-Point Multi-Gold 'Grand Cru' Rioja,13,39.99,12,2020,479.88
+Altos de la Guardia Tempranillo Rioja,Spain,Tempranillo,Acclaimed Estate's Rioja,190,21.99,12,2023,263.88
+Altos de la Guardia Reserva Rioja,Spain,Tempranillo,91-Point Rioja Reserva,128,32.99,12,2018,395.88
+Collezione di Paolo Bianco Vergine,Italy,Trebbiano,Top-Estate Tuscan White,53,19.99,12,2023,239.88
+Collezione di Paolo Verso Cielo Rosso di Toscana,Italy,Cabernet-based blend,Top-Estate Super Tuscan,92,29.99,12,2020,359.88
+Cuvée du Vatican Réserve de l'Abbé Châteauneuf-du-Pape,France,Grenache-based blend,Top-Estate Châteauneuf Exclusive,18,44.99,12,2020,539.88
+Brightwater Nelson Sauvignon Blanc,New Zealand,Sauvignon Blanc,94-Point New Zealand Sauvignon Blanc,27,25.99,12,2022,311.88
+Villa Broglia Gavi di Gavi,Italy,Cortese,93-Point Gavi di Gavi,119,24.99,12,2020,299.88
